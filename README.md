@@ -14,3 +14,5 @@ echo $RANDOMPASS
 ```console
 docker-compose up -d
 ```
+
+Log into Splunk opening the url http://localhost:8000 using admin as username and the password generated previously.
